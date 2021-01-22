@@ -1,7 +1,7 @@
 # ml-webApp
 ### This project contains a Linear Regression machine learning algorithm as a backend part. For connecting it with front end I have used Python Flask server.
 
-*For Front End I have used HTML and CSS and with that I have created a simple landing page where you need to enter 3 values which are like 
+* For Front End I have used HTML and CSS and with that I have created a simple landing page where you need to enter 3 values which are like 
 1)Engine Size 
 2)Numbers of cylinders
 3)Fuel
