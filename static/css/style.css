@@ -22,7 +22,7 @@ body{
 
 }
 
-.box input[type="text"]{
+.box input[type="number"]{
     border: 0;
     background: none;
     display: block;
@@ -38,7 +38,7 @@ body{
 
 }
 
-.box input[type="text"]:focus{
+.box input[type="number"]:focus{
     width: 280px;
     border-color: #2ecc71;
 
